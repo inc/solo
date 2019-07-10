@@ -1,0 +1,30 @@
+-----------------------------------------------------------------
+SOLO R0 PARTS LIST
+-----------------------------------------------------------------
+65mm x 60mm x 1.6mm
+-----------------------------------------------------------------
+
+1		ESP12F
+1		LM1117 LDO voltage regulator (SOT223)
+1		L293D (DIL16)
+
+3		Capacitor 100nF (0.1uF) (1206)
+1		Capacitor 1uF (1206)
+1		Capacitor 10uF (1206)
+1		Capacitor 22uF tantalum (1206)
+
+4		Resistor 10K (1206)
+1		Resistor 200K (1206)
+1		Resistor 1M (1206)
+
+1		Diode 1N4007 (DO41-10 thru-hole)
+
+6		Screw terminal 3.5mm
+
+1		Male header 2x4
+1		Male header 1x12
+1		Male header 1x5
+1		Male header 1x2
+1		Jumper
+
+1		USB 5-pin breakout board (1.5 x 1.3 x 0.4 cm)
