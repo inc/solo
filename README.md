@@ -18,7 +18,7 @@ SOLO is an IOT motor controller board designed by Lone Dynamics.
 
 | | |
 | --- | --- |
-| Dimensions | 65mm x 60mm) |
+| Dimensions | 65mm x 60mm |
 | WiFi Module | ESP-12E or F |
 | Motor Controller | L293D |
 | Power | MicroUSB, 4xAA batteries or solar |
