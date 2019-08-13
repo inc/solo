@@ -9,8 +9,8 @@ SOLO is an IOT motor controller board designed by Lone Dynamics.
 ## Features
 
   * Supports ESPEasy to provide a web-based interface and MQTT support over WiFi
-  * Controls 2-4 DC motors
-  * Power via MicroUSB, batteries or solar
+  * Controls 2 (bidirectional) or 4 (unidirectional) DC motors
+  * Power via MicroUSB or batteries and a solar panel
   * Battery voltage monitoring
   * Hand-solderable with a soldering iron
 
@@ -21,7 +21,7 @@ SOLO is an IOT motor controller board designed by Lone Dynamics.
 | Dimensions | 65mm x 60mm |
 | WiFi Module | ESP-12E or F |
 | Motor Controller | L293D |
-| Power | MicroUSB, 4xAA batteries or solar |
+| Power | MicroUSB, 4xAA NiMH batteries, 6V solar panel |
 
 ## Header Pinout
 
