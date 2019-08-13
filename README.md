@@ -50,6 +50,6 @@ SOLO is an IOT motor controller board designed by Lone Dynamics.
 
 ## Known Issues (revision 0)
 
-  * Trickle charging NiMH batteries from solar power doesn't seem to work
+  * Pull-down resistors (10K) should be added to MOTOR12EN and MOTOR34EN to prevent the L293D from being enabled while the ESP is in sleep mode
   * Heatsink cutout doesn't expose copper
 
