@@ -52,4 +52,5 @@ SOLO is an IOT motor controller board designed by Lone Dynamics.
 
   * Pull-down resistors (10K) should be added to MOTOR12EN and MOTOR34EN to prevent the L293D from being enabled while the ESP is in sleep mode
   * Heatsink cutout doesn't expose copper
+  * Has no built-in battery over-voltage protection 
 
